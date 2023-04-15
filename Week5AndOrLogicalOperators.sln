@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week5AndOrLogicalOperators", "Week5AndOrLogicalOperators\Week5AndOrLogicalOperators.csproj", "{B9024B2C-3AFA-4E56-AE36-D49A26C6CF66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndOperatorsWithRangers", "AndOperatorsWithRangers\AndOperatorsWithRangers.csproj", "{C769D591-0724-490A-BBE9-83655CC50865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9024B2C-3AFA-4E56-AE36-D49A26C6CF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9024B2C-3AFA-4E56-AE36-D49A26C6CF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9024B2C-3AFA-4E56-AE36-D49A26C6CF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9024B2C-3AFA-4E56-AE36-D49A26C6CF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C769D591-0724-490A-BBE9-83655CC50865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C769D591-0724-490A-BBE9-83655CC50865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C769D591-0724-490A-BBE9-83655CC50865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C769D591-0724-490A-BBE9-83655CC50865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4C7322-D8F5-4B80-BD43-419B2F8DA6A1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\bin\Debug\net6.0\AndOperatorsWithRangers.exe
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\bin\Debug\net6.0\AndOperatorsWithRangers.deps.json
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\bin\Debug\net6.0\AndOperatorsWithRangers.runtimeconfig.json
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\bin\Debug\net6.0\AndOperatorsWithRangers.dll
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\bin\Debug\net6.0\AndOperatorsWithRangers.pdb
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\obj\Debug\net6.0\AndOperatorsWithRangers.csproj.AssemblyReference.cache
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\obj\Debug\net6.0\AndOperatorsWithRangers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\obj\Debug\net6.0\AndOperatorsWithRangers.AssemblyInfoInputs.cache
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\obj\Debug\net6.0\AndOperatorsWithRangers.AssemblyInfo.cs
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\obj\Debug\net6.0\AndOperatorsWithRangers.csproj.CoreCompileInputs.cache
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\obj\Debug\net6.0\AndOperatorsWithRangers.dll
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\obj\Debug\net6.0\refint\AndOperatorsWithRangers.dll
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\obj\Debug\net6.0\AndOperatorsWithRangers.pdb
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\obj\Debug\net6.0\AndOperatorsWithRangers.genruntimeconfig.cache
+C:\Users\Ekin\source\repos\Week5AndOrLogicalOperators\AndOperatorsWithRangers\obj\Debug\net6.0\ref\AndOperatorsWithRangers.dll
